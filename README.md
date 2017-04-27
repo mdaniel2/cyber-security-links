@@ -8,6 +8,7 @@ List links and description for remember :-)
 | ------ | ------ |
 | [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
+| [EffectHacking](http://www.effecthacking.com/) | Blog |
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
@@ -28,11 +29,16 @@ List links and description for remember :-)
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 
-### Training L3g@l form
+### Training L3g@l form and G@mes
 | Link | Description | 
 | ------ | ------ |
+| [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag |
+| [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience  |
 | [CTF365](https://ctf365.com/) | CTF Praticing |
-
+| [OtherWire](http://overthewire.org/wargames/) | The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. |
+| [Hacking-LAB](https://www.hacking-lab.com/) | Hacking-Lab is an online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents. |
+| [Pwnable.kr](http://pwnable.kr/) |     'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. |
+ 
 
 ### TI Hacking
 | Link | Description |
@@ -50,12 +56,6 @@ List links and description for remember :-)
 | [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
 | [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
 | [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
-
-### Games
-| Link | Description |
-| ------ | ------ | 
-| [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag | 
-| [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience ** Not open source | 
 
 ### Util
 | Link | Description |

@@ -9,7 +9,7 @@ List links and description for remember :-)
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
 
 
-### Devlopment
+### Dev
 | Link | Description | 
 | ------ | ------ |
 | [Owasp](https://www.owasp.org) | Open Web Application Security Project |
@@ -18,6 +18,17 @@ List links and description for remember :-)
 | Link | Description |
 | ------ | ------ |
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
+
+
+### TI Hacking
+| Link | Description |
+| ------ | ------ |
+| [Google Hacking Database](https://www.exploit-db.com/google-hacking-database/) | Google Hackgin Database |
+
+### TA Hacking
+| Link | Description | 
+| ------ | ------ |
+| [Shodan](https://www.shodan.io) | Open ports in T.A | 
 
 ----
 

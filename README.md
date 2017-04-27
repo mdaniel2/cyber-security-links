@@ -7,6 +7,8 @@ List links and description for remember :-)
 | Link | Description |
 | ------ | ------ |
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
+| [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
+| [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
 
 
 ### Dev

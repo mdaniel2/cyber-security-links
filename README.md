@@ -28,6 +28,11 @@ List links and description for remember :-)
 | [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
 | [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
 
+### Training L3g@l form
+| Link | Description | 
+| ------ | ------ |
+| [CTF365](https://ctf365.com/) | CTF Praticing |
+
 
 ### TI Hacking
 | Link | Description |

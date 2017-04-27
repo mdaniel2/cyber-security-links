@@ -39,6 +39,25 @@ List links and description for remember :-)
 | ------ | ------ |
 | [Shodan](https://www.shodan.io) | Open ports in T.A | 
 
+### OS
+| Link | Description | 
+| ------ | ------ |
+| [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
+| [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
+| [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
+
+### Games
+| Link | Description |
+| ------ | ------ | 
+| [FBCTF](https://github.com/facebook/fbctf) | Facebook Capture the Flag | 
+| [Hacker Experience](https://hackerexperience.com/) | Game of Hacker Experience ** Not open source | 
+
+### Util
+| Link | Description |
+| ------ | ------ |
+| [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers*? |
+
+
 ----
 
 MIT

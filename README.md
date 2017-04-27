@@ -6,6 +6,8 @@ List links and description for remember :-)
 ### Journals and Informatives
 | Link | Description |
 | ------ | ------ |
+| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
+| [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 

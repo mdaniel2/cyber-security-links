@@ -12,6 +12,7 @@ List links and description for remember :-)
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
+| [Shellter](https://shellterlabs.com) | Social Network focused on information security |
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
 | [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
 

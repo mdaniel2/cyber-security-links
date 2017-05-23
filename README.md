@@ -8,6 +8,7 @@ List links and description for remember :-)
 | ------ | ------ |
 | [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
+| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
 | [EffectHacking](http://www.effecthacking.com/) | Blog |
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
@@ -15,6 +16,8 @@ List links and description for remember :-)
 | [Shellter](https://shellterlabs.com) | Social Network focused on information security |
 | [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
 | [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
+| [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
+| [Virus Guides](http://virusguides.com/) | Powered by Knowledge | 
 
 ### Courses Sites
 | Link | Description |
@@ -69,6 +72,5 @@ List links and description for remember :-)
 
 ----
 
-MIT
 
-**Free Software, Hell Yeah!**
+**Free contribute and use, Hell Yeah!**

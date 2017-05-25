@@ -6,25 +6,25 @@ List links and description for remember :-)
 ### Journals and Informatives
 | Link | Description |
 | ------ | ------ |
-| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html){:target="_blank"} |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
-| [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts){:target="_blank"} | (Alerts) US-CERT United States Computer Emergency Readiness Team |
-| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/){:target="_blank"} | (Alerts) Zero Day Iniciative |
-| [EffectHacking](http://www.effecthacking.com/){:target="_blank"} | Blog |
-| [Enigma](https://enigma.unb.br/index.php/enigma){:target="_blank"} | Brazillian Journal of Information Security and Criptography |
-| [Laboratório de Defesa Cibernetica do IME](http://www.defesacibernetica.ime.eb.br){:target="_blank"} | Laboratório de Defesa Cibernetica do Instituto Militar de Engenharia Elétrica| 
-| [Google Security Blog](https://security.googleblog.com/){:target="_blank"} | Google Security Blog | 
-| [Hacker Security](https://hackersec.com/){:target="_blank"} | Hacker security News and Blog | 
-| [Shellter](https://shellterlabs.com){:target="_blank"} | Social Network focused on information security |
-| [The Hacker News](http://thehackernews.com){:target="_blank"} | The Hacker News Security in a Serius Way | 
-| [WeLiveSecurity](https://www.welivesecurity.com/){:target="_blank"} | News, Views, and insight from the ESET security comunity |
-| [SecurityWeek](http://www.securityweek.com/){:target="_blank"} | Internet and Enterprise Security News, Insights e Analysis |
-| [Virus Guides](http://virusguides.com/){:target="_blank"} | Powered by Knowledge | 
+| [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
+| [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
+| [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
+| [EffectHacking](http://www.effecthacking.com/) | Blog |
+| [Enigma](https://enigma.unb.br/index.php/enigma) | Brazillian Journal of Information Security and Criptography |
+| [Laboratório de Defesa Cibernetica do IME](http://www.defesacibernetica.ime.eb.br) | Laboratório de Defesa Cibernetica do Instituto Militar de Engenharia Elétrica| 
+| [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
+| [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
+| [Shellter](https://shellterlabs.com) | Social Network focused on information security |
+| [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
+| [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
+| [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
+| [Virus Guides](http://virusguides.com/) | Powered by Knowledge | 
 | [Security art Work](https://www.securityartwork.es/en/){:target="_blank"} | Security art Work | 
 
 ### Courses Sites
 | Link | Description |
 | ----- | ------ |
-| [Cybrary](https://www.cybrary.it/){:target="_blank"} | Free and Open Source Cyber Security Learning |
+| [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning |
 
 ### Dev
 | Link | Description | 

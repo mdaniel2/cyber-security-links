@@ -11,6 +11,7 @@ List links and description for remember :-)
 | [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
 | [EffectHacking](http://www.effecthacking.com/) | Blog |
 | [Enigma](https://enigma.unb.br/index.php/enigma)| Brazillian Journal of Information Security and Criptography |
+| [Laboratório de Defesa Cibernetica do IME](http://www.defesacibernetica.ime.eb.br) | Laboratório de Defesa Cibernetica do Instituto Militar de Engenharia Elétrica| 
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
 | [Shellter](https://shellterlabs.com) | Social Network focused on information security |

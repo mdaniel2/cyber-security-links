@@ -3,7 +3,7 @@
 List links and description 
 * [Cert and alerts](#cert)
 * [Jornls and Papers publishing](#jornals)
-* [Organizations] (#org)
+* [Organizations](#org)
 * [Informatives and Blogs](#blogs)
 
 ### <a name="cert"></a>CERT and alerts

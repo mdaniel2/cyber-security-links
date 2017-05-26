@@ -2,7 +2,9 @@
 
 List links and description 
 * [Cert and alerts](#cert)
-
+* [Jornls and Papers publishing](#jornals)
+* [Organizations] (#org)
+* [Informatives and Blogs](#blogs)
 
 ### <a name="cert"></a>CERT and alerts
 | Link | Description |
@@ -10,43 +12,31 @@ List links and description
 | [CERT-EU - Latest News](https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html) |(Latest News) Computer emergency response Tean for the EU (Europe Union) institutions, bodies and agencies |
 | [CERT-US - ALERTS](https://www.us-cert.gov/ncas/alerts) | (Alerts) US-CERT United States Computer Emergency Readiness Team |
 
-### Jornals and Papers publishing
+### <a name="jornals"></a>Jornals and Papers publishing
 | Link | Description |
 | ------ | ------ |
 | [Enigma](https://enigma.unb.br/index.php/enigma) | Brazillian Journal of Information Security and Criptography |
 | [Laboratório de Defesa Cibernetica do IME](http://www.defesacibernetica.ime.eb.br) | Cyber Security Laboratory of Brazillian Military Engineering Institute | 
 
-### Organizations
+### <a name="org"></a>Organizations
 | Link | Description |
 | ------ | ------ |
+| [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers*? |
 | [Owasp](https://www.owasp.org) | Open Web Application Security Project |
 | [ZeroDayInitiative](http://www.zerodayinitiative.com/advisories/published/) | (Alerts) Zero Day Iniciative |
-| [No more ransomware](https://www.nomoreransom.org/) | Need Help unlocking your digital life without paying your attackers*? |
 
-### Informatives and blogs
+### <a name="blogs">Informatives and blogs
 | Link | Description |
 | ------ | ------ |
 | [EffectHacking](http://www.effecthacking.com/) | Blog |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
-| [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
-| [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
 | [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
-| [Virus Guides](http://virusguides.com/) | Powered by Knowledge | 
 | [Security art Work](https://www.securityartwork.es/en/) | Security art Work | 
+| [The Hacker News](http://thehackernews.com) | The Hacker News Security in a Serius Way | 
+| [Virus Guides](http://virusguides.com/) | Powered by Knowledge | 
+| [WeLiveSecurity](https://www.welivesecurity.com/) | News, Views, and insight from the ESET security comunity |
 
-### Courses Sites
-| Link | Description |
-| ----- | ------ |
-| [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning |
-
-
-### Tools
-| Link | Description |
-| ------ | ------ |
-| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
-| [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
-| [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. | 
 
 ### Training L3g@l and G@mes
 | Link | Description | 
@@ -74,7 +64,12 @@ List links and description
 | Link | Description | 
 | ------ | ------ |
 | [Shodan](https://www.shodan.io) | Open ports in A.T | 
-| [Critifence](http://www.critifence.com/default-password-database/) | Default Password database of A.T | 
+| [Critifence](http://www.critifence.com/default-password-database/) | Default Password database of A.T |
+
+### Courses Sites
+| Link | Description |
+| ----- | ------ |
+| [Cybrary](https://www.cybrary.it/) | Free and Open Source Cyber Security Learning | 
 
 ### OS - Operation Systens 
 | Link | Description | 
@@ -82,6 +77,13 @@ List links and description
 | [Vulnhub](https://www.vulnhub.com/) | OS with vulnerabilities for pentests |
 | [Kali](https://www.kali.org/) | Penetration Testing Destribution OS |
 | [Samurai Web Tester Framework](http://www.samurai-wtf.org/) | Web Tester OS |
+
+### Tools
+| Link | Description |
+| ------ | ------ |
+| [Sonarqube](https://www.sonarqube.org/) | Static Code Reviewer | 
+| [w3af](http://w3af.org/) | Web Application Attack And Audit Framework |
+| [PunkSPIDER](https://www.punkspider.org) | A global web application vulnerability search engine. | 
 
 
 

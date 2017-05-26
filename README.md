@@ -55,7 +55,7 @@ List links and description
 | [CTF365](https://ctf365.com/) | CTF Praticing |
 | [OtherWire](http://overthewire.org/wargames/) | The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games. |
 | [Hacking-LAB](https://www.hacking-lab.com/) | Hacking-Lab is an online ethical hacking, computer network and security challenge platform, dedicated to finding and educating cyber security talents. |
-| [Pwnable.kr](http://pwnable.kr/)  'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. |
+| [Pwnable.kr](http://pwnable.kr/) | 'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. |
 | [Shellter](https://shellterlabs.com) | Social Network focused on information security |
  
 ### IT Hacking

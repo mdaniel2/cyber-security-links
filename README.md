@@ -61,7 +61,7 @@ List links and description
 ### <a name="hackactivism"></a>Non-legal Cyber activism
 | Link | Description | 
 | ------ | ------ |
-| [Zone-H](http://zone-h.org/) | Hacker pishing website |
+| [Zone-H](http://zone-h.org/) | List of sites attacked by unethical Hackers |
 | [WikiLeaks](https://wikileaks.org/) | WikiLeaks is a multi-national media organization and associated library. |
 
 ### <a name="ithack"></a>IT Hacking list

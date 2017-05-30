@@ -39,6 +39,7 @@ List links and description
 | ------ | ------ |
 | [EffectHacking](http://www.effecthacking.com/) | Blog |
 | [ICS Sans](https://ics.sans.org) | Sans Industrial Control Systems blog |
+| [ClearSkySec Blog](http://www.clearskysec.com/blog/) | ClearSky CyberSecurity blog |
 | [Google Security Blog](https://security.googleblog.com/) | Google Security Blog | 
 | [Hacker Security](https://hackersec.com/) | Hacker security News and Blog | 
 | [SecurityWeek](http://www.securityweek.com/) | Internet and Enterprise Security News, Insights e Analysis |
